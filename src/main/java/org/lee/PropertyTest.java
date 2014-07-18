@@ -2,6 +2,8 @@ package org.lee;
 
 public class PropertyTest {
 
+	int name1;
+	
 	/**
 	 * @param args
 	 */
